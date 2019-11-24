@@ -1,9 +1,7 @@
 # Simplified-DES-Cryptanalyser
 A Differential Cryptanalyser to crack Simplified DES cipher. 
  =======================================================================================
-|| ############                                                                         ||
-|| #Encrypt.py#                                                                         ||
-|| ############                                                                         ||
+|| Encrypt.py                                                                           ||
 ||                                                                                      ||
 || Script to encrypt a file using S-DES cipher.                                         ||
 ||                                                                                      ||
@@ -19,9 +17,7 @@ A Differential Cryptanalyser to crack Simplified DES cipher.
 
 
  ========================================================================================
-|| ############                                                                         ||
-|| #Decrypt.py#                                                                         ||
-|| ############                                                                         ||
+|| Decrypt.py                                                                           ||
 ||                                                                                      ||
 || Script to decrypt a file encrypted using S-DES cipher.                               ||
 ||                                                                                      ||
@@ -37,9 +33,7 @@ A Differential Cryptanalyser to crack Simplified DES cipher.
 
 
  ========================================================================================================
-|| ##########                                                                                           ||
-|| #crack.py#                                                                                           ||
-|| ##########                                                                                           ||
+|| crack.py                                                                                          ||
 ||                                                                                                      ||
 || Script to crack S-DES using differential cryptanalysis.                                              ||
 ||                                                                                                      ||
