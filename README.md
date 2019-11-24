@@ -1,10 +1,10 @@
 # Simplified-DES-Cryptanalyser
 
-##A Differential Cryptanalyser to crack Simplified DES cipher. 
+## A Differential Cryptanalyser to crack Simplified DES cipher. 
 
 
-###Encrypt.py                                                                           
-####Script to encrypt a file using S-DES cipher.                                         
+### Encrypt.py                                                                           
+#### Script to encrypt a file using S-DES cipher.                                         
                                                                                      
 How to run:                                                                          
 Just execute this python script and provide the 10 bit key when prompted.            
@@ -17,8 +17,8 @@ Just execute this python script and provide the 10 bit key when prompted.
 
 
 
-###Decrypt.py                                                                           
-####Script to decrypt a file encrypted using S-DES cipher.                               
+### Decrypt.py                                                                           
+#### Script to decrypt a file encrypted using S-DES cipher.                               
                                                                                      
 How to run:                                                                          
 Just execute this python script and provide the 10 bit key when prompted.            
@@ -32,8 +32,8 @@ Just execute this python script and provide the 10 bit key when prompted.
 
 
 
-###crack.py
-####Script to crack S-DES using differential cryptanalysis.                                           
+### crack.py
+#### Script to crack S-DES using differential cryptanalysis.                                           
                                                                                                   
 How to run:                                                                                       
 Just execute this python script and provide the 10 bit key when prompted.                         
